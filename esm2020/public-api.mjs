@@ -1,0 +1,9 @@
+/*
+ * Public API Surface of my-lib
+ */
+export * from './lib/my-lib.service';
+export * from './lib/my-lib.component';
+export * from './lib/my-lib.module';
+export { ButtonComponent } from './lib/button/button.component';
+export { ChipsComponent } from './lib/chips/chips.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL215LWxpYi9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUlILGNBQWMsc0JBQXNCLENBQUM7QUFDckMsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLHFCQUFxQixDQUFDO0FBSXBDLE9BQU8sRUFBRSxlQUFlLEVBQUUsTUFBTSwrQkFBK0IsQ0FBQztBQUNoRSxPQUFPLEVBQUUsY0FBYyxFQUFFLE1BQU0sNkJBQTZCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG15LWxpYlxuICovXG5cblxuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9teS1saWIuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9teS1saWIuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL215LWxpYi5tb2R1bGUnO1xuXG5cblxuZXhwb3J0IHsgQnV0dG9uQ29tcG9uZW50IH0gZnJvbSAnLi9saWIvYnV0dG9uL2J1dHRvbi5jb21wb25lbnQnO1xuZXhwb3J0IHsgQ2hpcHNDb21wb25lbnQgfSBmcm9tICcuL2xpYi9jaGlwcy9jaGlwcy5jb21wb25lbnQnOyJdfQ==
